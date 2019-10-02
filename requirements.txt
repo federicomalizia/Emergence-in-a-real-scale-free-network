@@ -1,7 +1,0 @@
-numpy
-random
-pandas
-networkx
-matplotlib
-IPython.display
-csv
